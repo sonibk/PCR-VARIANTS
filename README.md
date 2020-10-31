@@ -25,3 +25,11 @@ QUANTITATIVE PCR
 + There is no need to run the PCR product out on a gel after the reaction as the melt curve analysis serve the purpose.
 + The real-time PCR data can be used to perform truly quantitative analysis of gene expression. In comparison, old fashioned PCR was only ever semi-quantitative at best.
 + Faster than normal PCR.
+
+# NESTED PCR
+
++ Nested PCR is a useful modification of PCR technology where the specificity of the reaction is enhanced by preventing the non-specific binding with the help of the two sets of primer.
++ The first set of primer binds outside of our target DNA and amplifies larger fragment while another set of primer binds specifically at the target site.
++ In the second round of amplification, second set of primer amplifies only the target DNA.
++ Nested PCR is a helpful method for the phylogenetic studies and detection of different pathogens.
++ The technique has higher sensitivity; hence even if the sample contains lower DNA, it can be amplified which is not feasible in the conventional PCR technique.
