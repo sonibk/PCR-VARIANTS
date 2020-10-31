@@ -33,3 +33,11 @@ QUANTITATIVE PCR
 + In the second round of amplification, second set of primer amplifies only the target DNA.
 + Nested PCR is a helpful method for the phylogenetic studies and detection of different pathogens.
 + The technique has higher sensitivity; hence even if the sample contains lower DNA, it can be amplified which is not feasible in the conventional PCR technique.
+
+#REVERSE TRANSCRIPTASE PCR (RT-PCR)
++ is a modification of conventional PCR, whereby RNA molecules are first converted into complementary DNA (cDNA) molecules that can then be amplified by PCR.
++ In RT-PCR, the RNA template is first converted into a complementary DNA (cDNA) using reverse transcriptase. The cDNA then acts as a template for exponential amplification using PCR.
++ RT-PCR can be conducted either in a single tube or as two steps in different tubes. The one-step method is more effective with fewer chances of contamination and incorporation of variations.
++ RT-PCR is used in research methods, gene insertion, genetic disease diagnosis and cancer detection.
+
+
