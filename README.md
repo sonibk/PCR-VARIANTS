@@ -40,4 +40,24 @@ QUANTITATIVE PCR
 + RT-PCR can be conducted either in a single tube or as two steps in different tubes. The one-step method is more effective with fewer chances of contamination and incorporation of variations.
 + RT-PCR is used in research methods, gene insertion, genetic disease diagnosis and cancer detection.
 
+## DIFFERENCE BETWEEN RT-PCR AND CONVENTIONAL PCR
+ 1.  Conventional PCR is more time consuming as it uses gel electrophoresis to analyze the amplified PCR products. In contrast, real-time PCR is less time consuming as it can detect amplifications during the early phases of the reaction.
+
+
+2.     The end point results of the conventional PCR may not be very precise, but the results of the real-time PCR are very precise.
+
+3.     Real-time PCR is more sensitive than conventional PCR.
+
+4.     Conventional PCR has very poor resolution while real-time PCR can detect very little changes due to the high resolution.
+
+5.     End point detection of conventional PCR has short dynamic range while real-time PCR detection has wide dynamic range.
+
+6.     Unlike conventional PCR, automated detection techniques are found in real-time PCR.
+
+7.     Conventional PCR is highly sophisticated and labor intensive more than real-time PCR.
+8.  Real-time PCR uses fluorescent dye system to detect the products while conventional PCR uses ethidium bromide and UV light to visualize bands in the agarose gel medium.
+
+ 
+
+ 
 
