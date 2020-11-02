@@ -57,6 +57,8 @@ QUANTITATIVE PCR
 7.     Conventional PCR is highly sophisticated and labor intensive more than real-time PCR.
 8.  Real-time PCR uses fluorescent dye system to detect the products while conventional PCR uses ethidium bromide and UV light to visualize bands in the agarose gel medium.
 
+[https://pubmed.ncbi.nlm.nih.gov/32344568/]
+
  
 
  
